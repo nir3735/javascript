@@ -33,6 +33,7 @@ console.log(array);
     var results = array.filter(val => {
       return val.age > 25} );
     console.log(results);
+    // new changes
 
     function compare(a, b)
     {
